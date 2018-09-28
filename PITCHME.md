@@ -16,6 +16,11 @@
 
 +++
 
+## Code Smells
+<img align="center" src="assets/smells.png">
+
++++
+
 ## Primitive Obsession
 using primitive data types to represent domain ideas
 
@@ -26,10 +31,6 @@ using primitive data types to represent domain ideas
 - int for quantity
 - ints/dates for range
 - array for object
-
-+++
-
-## bad smells in code
 
 +++
 
