@@ -89,6 +89,10 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
+## sure but...
+
+---
+
 ## the best way is 
 ## by doing a lot of practice
 ## period
