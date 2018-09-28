@@ -1,5 +1,5 @@
-# Death from a thousand wounds
-## The victim is your code and the murder weapon is the Primitive Obsession
+## Death from a thousand wounds
+The victim is your code and the murder weapon is the Primitive Obsession
 <!-- 
 # @color[GoldenRod](foo)
 # @color[IndianRed](bar)
@@ -17,12 +17,12 @@
 +++
 
 ## Code Smells
-<img align="center" src="assets/smells.png">
+<img align="center" src="assets/code-smells.png">
 
 +++
 
 ## Primitive Obsession
-using primitive data types to represent domain ideas
+using primitive data types to represent domain knowledge
 
 +++
 
@@ -34,11 +34,8 @@ using primitive data types to represent domain ideas
 
 +++
 
-## my workshop
-
-+++
-
-## workshop photos
+## Refactoring Legacy Code Workshop
+<img align="center" src="assets/workshop.png">
 
 +++
 
