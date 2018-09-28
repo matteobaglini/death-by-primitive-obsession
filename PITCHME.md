@@ -129,7 +129,8 @@ is the @color[GoldenRod](basis) of almost all other smells
 ---
 
 ## Mindset
-@color[GoldenRod](You are here to learn) not to build something, no output required
+@color[GoldenRod](You are here to learn)<br />
+not to build something, no output required
 
 ---
 
