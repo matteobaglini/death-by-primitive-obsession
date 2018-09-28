@@ -36,7 +36,7 @@ to represent @color[GoldenRod](domain knowledge)
 
 ---
 
-## After so many workshop
+## After many workshops
 My conclusion is that the Primitive Obsession<br />
 is the @color[GoldenRod](basis) of almost all other smells
 
@@ -47,7 +47,8 @@ is the @color[GoldenRod](basis) of almost all other smells
 ---
 
 ## @color[GoldenRod](treatment)
-### introduce many small objects that performs small tasks
+### introduce many small objects 
+### that performs small tasks
 
 ---
 
@@ -61,7 +62,7 @@ is the @color[GoldenRod](basis) of almost all other smells
 
 ---
 
-## Payoff
+## @color[GoldenRod](Payoff)
 - More understandable code
 - Better code organization
 - Composable building block
@@ -128,10 +129,22 @@ is the @color[GoldenRod](basis) of almost all other smells
 ---
 
 ## Mindset
-- @color[GoldenRod](You are here to learn) not to build something, no output required
-- Slow down. Don't focus on getting it done, @color[GoldenRod](focus on doing it perfectly)
-- It's necessary to @color[GoldenRod](push to the extreme) to verify the validity of a technique
-- Leverage each @color[GoldenRod](other knowledge). Work in pair.
+@color[GoldenRod](You are here to learn) not to build something, no output required
+
+---
+
+## Mindset
+Slow down. Don't focus on getting it done, @color[GoldenRod](focus on doing it perfectly)
+
+---
+
+## Mindset
+It's necessary to @color[GoldenRod](push to the extreme) to verify the validity of a technique
+
+---
+
+## Mindset
+Leverage each @color[GoldenRod](other knowledge). Work in pair.
 
 ---
 
