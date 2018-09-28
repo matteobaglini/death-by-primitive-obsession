@@ -1,4 +1,4 @@
-# Death from a thousand cuts
+# @color[IndianRed](Death) from a thousand @color[GoldenRod](cuts)
 The victim is your code and the murder weapon is the Primitive Obsession
 
 ---
@@ -18,15 +18,15 @@ The victim is your code and the murder weapon is the Primitive Obsession
 ---
 
 ## Primitive Obsession
-using primitive data types to represent domain knowledge
+using @color[IndianRed](primitive data types)<br />
+to represent @color[GoldenRod](domain knowledge)
 
 ---
 
-## Examples
-- double for money
-- int for quantity
-- ints/dates for range
-- array for object
+## Common Examples
+- double for @color[GoldenRod](money)
+- int for @color[GoldenRod](quantity)
+- dates for @color[GoldenRod](reservation)
 
 ---
 
@@ -35,31 +35,31 @@ using primitive data types to represent domain knowledge
 
 ---
 
-## My Conclusion
-Primitive Obsession is the basis of almost all other smells
+## Personal Conclusion
+Primitive Obsession is the @color[GoldenRod](basis) of almost all other smells
 
 ---
 
-## how to remove it?
+## how to @color[GoldenRod](remove) it?
 
 ---
 
-## treatment
+## @color[GoldenRod](treatment)
 ### introduce many small objects that performs small tasks
 
 ---
 
-## strategy
+## @color[GoldenRod](strategy)
 ### embrace continuous incremental design
 
 ---
 
-## tool
+## @color[GoldenRod](tool)
 ### use refactoring techniques
 
 ---
 
-## benefits
+## Payoff
 - More understandable code
 - Better code organization
 - Composable building block
@@ -68,18 +68,18 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-# LIVE DEMO
+# LIVE @color[GoldenRod](DEMO)
 
 ---
 
-## how to learn
-## to quickly spot and solve
+## how to learn to quickly 
+## @color[GoldenRod](spot) and @color[IndianRed](solve)
 ## Primitive Obsessions?
 
 ---
 
-## how to
-## Become a Better Developer?
+## how to become a 
+## @color[GoldenRod](Better Developer)?
 
 ---
 
@@ -89,33 +89,34 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-## sure but...
+## @color[GoldenRod](sure) but...
 
 ---
 
 ## the best way is 
-## by doing a lot of practice
+## by doing a @color[GoldenRod](lot of practice)
 ## period
 
 ---
 
 ## doing your job every day
-## doesn’t qualify as real practice
+## @color[IndianRed](doesn’t qualify) as real practice
 
 --- 
 
 ## Deliberate Practice
-The secret is life-long period of deliberate effort to improve performance in a specific domain
+### The secret is life-long period of @color[IndianRed](deliberate effort)
+### to @color[GoldenRod](improve performance) in a specific domain
 
 ---
 
-## We need a place and time
-## to experiment and fail
+## We need a @color[GoldenRod](place) and @color[GoldenRod](time)
+## to @color[IndianRed](experiment) and @color[IndianRed](fail)
 ## spectacularly
 
 ---
 
-## This workshop is that place
+## This workshop is that @color[GoldenRod](place)
 
 ---
 
@@ -125,9 +126,10 @@ The secret is life-long period of deliberate effort to improve performance in a 
 ---
 
 ## Mindset
-- You are here to learn not to build something, no output required
-- Slow down. Don't focus on getting it done, focus on doing it perfectly
-- Work in pair. Leverage each other knowledge.
+- @color[GoldenRod](You are here to learn) not to build something, no output required
+- Slow down. Don't focus on getting it done, @color[GoldenRod](focus on doing it perfectly)
+- It's necessary to @color[GoldenRod](push to the extreme) to verify the validity of a technique
+- Leverage each @color[GoldenRod](other knowledge). Work in pair.
 
 ---
 
