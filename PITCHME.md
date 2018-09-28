@@ -73,7 +73,9 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-## how to learn to quickly spot and solve Primitive Obsessions?
+## how to learn
+## to quickly spot and solve
+## Primitive Obsessions?
 
 ---
 
