@@ -96,7 +96,8 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-## Contrary to what you might believe, merely doing your job every day doesn’t qualify as real practice.
+## doing your job every day
+## doesn’t qualify as real practice
 
 --- 
 
