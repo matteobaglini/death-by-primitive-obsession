@@ -106,7 +106,9 @@ The secret is life-long period of deliberate effort to improve performance in a 
 
 ---
 
-## We need a place and time to experiment and fail spectacularly
+## We need a place and time
+## to experiment and fail
+## spectacularly
 
 ---
 
