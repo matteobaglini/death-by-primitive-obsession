@@ -1,6 +1,6 @@
 # @color[IndianRed](Death) from a thousand @color[GoldenRod](cuts)
-The victim is your code and the murder weapon<br />
-is the Primitive Obsession
+The victim is your code and the murder<br />
+weapon is the Primitive Obsession
 
 ---
 # Who am I?
@@ -36,8 +36,9 @@ to represent @color[GoldenRod](domain knowledge)
 
 ---
 
-## Personal Conclusion
-Primitive Obsession is the @color[GoldenRod](basis) of almost all other smells
+## After so many workshop
+My conclusion is that the Primitive Obsession<br />
+is the @color[GoldenRod](basis) of almost all other smells
 
 ---
 
