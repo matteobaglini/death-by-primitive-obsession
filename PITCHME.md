@@ -137,18 +137,20 @@ is the @color[GoldenRod](basis) of almost all other smells
 
 ## Mindset
 ### Slow down
-### Don't focus on getting it done
+### @color[IndianRed](don't) focus on getting it done
 ### @color[GoldenRod](focus on doing it perfectly)
 
 ---
 
 ## Mindset
-### It's necessary to @color[GoldenRod](push to the extreme) to verify the validity of a technique
+### It's necessary to @color[GoldenRod](push to the extreme)
+### to verify the validity of a technique
 
 ---
 
 ## Mindset
-### Leverage each @color[GoldenRod](other knowledge). Work in pair.
+### Leverage each @color[GoldenRod](other knowledge)
+### Work in pair
 
 ---
 
