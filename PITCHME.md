@@ -45,18 +45,17 @@ Primitive Obsession is the basis of almost all other smells
 ---
 
 ## as treatment
-introduce many small objects
-that performs small tasks
+### introduce many small objects that performs small tasks
 
 ---
 
-## as long term strategy
-embrace continuous design
+## as strategy
+### embrace continuous design
 
 ---
 
 ## as tool
-use refactoring techniques
+### use refactoring techniques
 
 ---
 
