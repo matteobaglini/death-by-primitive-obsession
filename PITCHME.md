@@ -85,12 +85,14 @@ Primitive Obsession is the basis of almost all other smells
 ---
 
 ## through the study
-<img align="left" height="500" src="assets/refactoring-book1.jpg">
-<img align="right" height="500" src="assets/refactoring-book2.jpg">
+<img align="left" height="450" src="assets/refactoring-book1.jpg">
+<img align="right" height="450" src="assets/refactoring-book2.jpg">
 
 ---
 
-## doing a lot of practice, period
+## the best way is 
+## by doing a lot of practice
+## period
 
 ---
 
