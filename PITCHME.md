@@ -1,4 +1,4 @@
-# Death from a thousand wounds
+# Death from a thousand cuts
 The victim is your code and the murder weapon is the Primitive Obsession
 
 ---
@@ -44,17 +44,17 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-## as treatment
+## treatment
 ### introduce many small objects that performs small tasks
 
 ---
 
-## as strategy
-### embrace continuous design
+## strategy
+### embrace continuous incremental design
 
 ---
 
-## as tool
+## tool
 ### use refactoring techniques
 
 ---
@@ -137,6 +137,6 @@ The secret is life-long period of deliberate effort to improve performance in a 
 
 ## Today Code Kata
 
-Task List, an example of code obsessed with primitives
+Task List an example of code obsessed with primitives
 
 https://bit.ly/2Na9oh8
