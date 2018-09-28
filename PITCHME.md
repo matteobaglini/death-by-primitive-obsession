@@ -1,6 +1,7 @@
 # @color[IndianRed](Death) from a thousand @color[GoldenRod](cuts)
-The victim is your code and <br />
-the murder weapon is the Primitive Obsession
+The victim is your code <br />
+and the murder weapon is <br />
+the Primitive Obsession
 
 ---
 # Who am I?
