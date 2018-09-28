@@ -13,7 +13,7 @@ The victim is your code and the murder weapon is the Primitive Obsession
 ---
 
 ## Code Smells
-<img align="center" src="assets/code-smells2.png">
+<img align="center" src="assets/code-smells3.png">
 
 ---
 
@@ -31,7 +31,7 @@ using primitive data types to represent domain knowledge
 ---
 
 ## Refactoring Legacy Code Workshop
-<img align="center" src="assets/workshop.png">
+<img align="center" src="assets/workshop3.png">
 
 ---
 
