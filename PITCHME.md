@@ -50,7 +50,7 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-## continuous design
+## embrace continuous design
 ## as long term strategy
 
 ---
@@ -69,7 +69,7 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-# DEMO (invoice pay terms)
+# LIVE DEMO
 
 ---
 
