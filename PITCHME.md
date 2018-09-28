@@ -130,13 +130,15 @@ is the @color[GoldenRod](basis) of almost all other smells
 
 ## Mindset
 ### @color[GoldenRod](You are here to learn)
-### not to build something
-### no output required
+### @color[IndianRed](not) to build something
+### @color[IndianRed](no) output required
 
 ---
 
 ## Mindset
-### Slow down. Don't focus on getting it done, @color[GoldenRod](focus on doing it perfectly)
+### Slow down
+### Don't focus on getting it done
+### @color[GoldenRod](focus on doing it perfectly)
 
 ---
 
