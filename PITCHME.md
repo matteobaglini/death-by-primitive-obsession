@@ -79,13 +79,14 @@ Primitive Obsession is the basis of almost all other smells
 
 ---
 
-## how to Become a Better Developer?
+## how to
+## Become a Better Developer?
 
 ---
 
 ## through the study
-<img align="left" src="assets/refactoring-book1.jpg">
-<img align="right" src="assets/refactoring-book2.jpg">
+<img align="left" height="20" src="assets/refactoring-book1.jpg">
+<img align="right" height="20" src="assets/refactoring-book2.jpg">
 
 ---
 
