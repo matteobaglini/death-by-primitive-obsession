@@ -116,15 +116,15 @@ The secret is life-long period of deliberate effort to improve performance in a 
 
 ---
 
+## Code Kata
+<img align="center" src="assets/code-kata.png">
+
+---
+
 ## Mindset
 - You are here to learn not to build something, no output required
 - Slow down. Don't focus on getting it done, focus on doing it perfectly
 - Work in pair. Leverage each other knowledge.
-
----
-
-## Code Kata
-<img align="center" src="assets/code-kata.png">
 
 ---
 
@@ -134,6 +134,6 @@ The secret is life-long period of deliberate effort to improve performance in a 
 
 ## Today Code Kata
 
-### Task List
-an example of code obsessed with primitives
+Task List, an example of code obsessed with primitives
+
 https://bit.ly/2Na9oh8
