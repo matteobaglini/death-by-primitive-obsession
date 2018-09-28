@@ -17,7 +17,11 @@
 +++
 
 ## Primitive Obsession
-using primitive data types to represent domain ideas, e.g.:
+using primitive data types to represent domain ideas
+
++++
+
+## Examples
 - double for money
 - int for quantity
 - ints/dates for range
