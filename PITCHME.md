@@ -31,7 +31,7 @@ using primitive data types to represent domain knowledge
 ---
 
 ## Refactoring Legacy Code Workshop
-<img align="center" src="assets/workshop3.png">
+<img align="center" src="assets/workshop2.png">
 
 ---
 
